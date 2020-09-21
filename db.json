@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,36 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Petey",
+      "dogBreed": "Doggy",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Marcos",
+      "dogBreed": "Human",
+      "id": 5
+    },
+    {
+      "dogName": "Sony",
+      "dogBreed": "CatDog",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -19,12 +47,217 @@
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
       "id": 2
+    },
+    {
+      "dogName": "Catey",
+      "dogBreed": "GrayHair",
+      "submit": "Submit",
+      "id": 3
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "name": "marcos",
+      "email": "rod@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Patrick",
+      "email": "patrick_star@spongebob.com",
+      "id": 4
+    },
+    {
+      "name": "SpongeBob",
+      "email": "sponge_bob_daddy@spongebob.com",
+      "id": 5
+    },
+    {
+      "name": "SandyCheeks",
+      "email": "cheeks_with_sandy@spongebob.com",
+      "id": 6
+    },
+    {
+      "name": "Mr. Krabbs",
+      "email": "deez_krabbs@spongebob.com",
+      "id": 7
+    },
+    {
+      "name": "Squidward",
+      "email": "band_manager@spongebob.com",
+      "id": 8
+    },
+    {
+      "name": "Squidward",
+      "email": "band_manager@spongebob.com",
+      "id": 9
+    },
+    {
+      "name": "Squidward",
+      "email": "band_manager@spongebob.com",
+      "id": 10
+    },
+    {
+      "name": "Squidward",
+      "email": "band_manager@spongebob.com",
+      "id": 11
+    },
+    {
+      "name": "Patrick",
+      "email": "patrick_star@spongebob.com",
+      "id": 12
+    },
+    {
+      "name": "Patrick",
+      "email": "patrick_star@spongebob.com",
+      "id": 13
+    },
+    {
+      "name": "SpongeBob",
+      "email": "sponge_bob_daddy@spongebob.com",
+      "id": 14
+    },
+    {
+      "name": "SpongeBob",
+      "email": "sponge_bob_daddy@spongebob.com",
+      "id": 15
+    },
+    {
+      "name": "Squidward",
+      "email": "band_manager@spongebob.com",
+      "id": 16
+    },
+    {
+      "name": "Squidward",
+      "email": "band_manager@spongebob.com",
+      "id": 17
+    },
+    {
+      "name": "Squidward",
+      "email": "band_manager@spongebob.com",
+      "id": 18
+    },
+    {
+      "name": "Squidward",
+      "email": "band_manager@spongebob.com",
+      "id": 19
+    },
+    {
+      "name": "Squidward",
+      "email": "band_manager@spongebob.com",
+      "id": 20
+    },
+    {
+      "name": "Patrick",
+      "email": "patrick_star@spongebob.com",
+      "id": 21
+    },
+    {
+      "name": "Patrick",
+      "email": "patrick_star@spongebob.com",
+      "id": 22
+    },
+    {
+      "name": "Patrick",
+      "email": "patrick_star@spongebob.com",
+      "id": 23
+    },
+    {
+      "name": "Patrick",
+      "email": "patrick_star@spongebob.com",
+      "id": 24
+    },
+    {
+      "name": "Mr. Krabbs",
+      "email": "deez_krabbs@spongebob.com",
+      "id": 25
+    },
+    {
+      "name": "SpongeBob",
+      "email": "sponge_bob_daddy@spongebob.com",
+      "id": 26
+    },
+    {
+      "name": "Squidward",
+      "email": "band_manager@spongebob.com",
+      "id": 27
+    },
+    {
+      "name": "Mr. Krabbs",
+      "email": "deez_krabbs@spongebob.com",
+      "id": 28
+    },
+    {
+      "name": "SpongeBob",
+      "email": "sponge_bob_daddy@spongebob.com",
+      "id": 29
+    },
+    {
+      "name": "Mr. Krabbs",
+      "email": "deez_krabbs@spongebob.com",
+      "id": 30
+    },
+    {
+      "name": "Mr. Krabbs",
+      "email": "deez_krabbs@spongebob.com",
+      "id": 31
+    },
+    {
+      "name": "SpongeBob",
+      "email": "sponge_bob_daddy@spongebob.com",
+      "id": 32
+    },
+    {
+      "name": "Patrick",
+      "email": "patrick_star@spongebob.com",
+      "id": 33
+    },
+    {
+      "name": "Patrick",
+      "email": "patrick_star@spongebob.com",
+      "id": 34
+    },
+    {
+      "name": "Mr. Krabbs",
+      "email": "deez_krabbs@spongebob.com",
+      "id": 35
+    },
+    {
+      "name": "Squidward",
+      "email": "band_manager@spongebob.com",
+      "id": 36
+    },
+    {
+      "name": "SpongeBob",
+      "email": "sponge_bob_daddy@spongebob.com",
+      "id": 37
+    },
+    {
+      "name": "Patrick",
+      "email": "patrick_star@spongebob.com",
+      "id": 38
+    },
+    {
+      "name": "sardines",
+      "email": "sour_sardines@spongebob.com",
+      "id": 39
+    },
+    {
+      "name": "sardines",
+      "email": "sour_sardines@spongebob.com",
+      "id": 40
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
